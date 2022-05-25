@@ -9,3 +9,9 @@ A simple client for downloading Yu Gi Oh Cards using YGO Pro Deck APIs (https://
 - Click the "Download Cards" button! 
 
 All images will be downloaded inside the executable folder ("YGO Card Downloader_Data\Downloaded Cards")
+
+# Copyright
+I don't have any rights upon YGO Cards; this is just a "study" tool that I created because:
+- I wanted to learn how to use APIs
+- I wanted to learn (by reading cards) how different archetypes works.
+So feel free to use this code and program as you wish.
